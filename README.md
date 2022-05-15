@@ -1,4 +1,4 @@
-# MusicPlayer-mobileApp
+# MusicPlayer-Android Application
 this is app for music player. All music files are added in 'raw' folder(res->raw).
 Features in the app:
 1. Goto next and privious song.
